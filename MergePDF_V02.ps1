@@ -4,7 +4,7 @@ This module provides functionality to merge multiple pdf files. It was tested wi
 function MergePdf {
 <#
 .SYNOPSIS
-Merges multiple PDF files into a single multisheet PDF
+Merges multiple PDF files into a single multisheet PDF.
 .PARAMETER Files
 A collection of PDF files
 .PARAMETER DestinationFile
